@@ -1,0 +1,485 @@
+[
+    {
+        "name": "Bombay biryani",
+        "ratings": 4,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "60 min"
+    },
+    {
+        "name": "Sabudana vada",
+        "ratings": 4,
+        "imageUrl": "https://cdn.tasteatlas.com//images/dishes/bfa5558ba02f4ff490bb73d2e7a45932.jpg?w=905&h=510",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "65 min"
+    },
+    {
+        "name": "Pesara dosa",
+        "ratings": 5,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "19 min"
+    },
+    {
+        "name": "Uttapam",
+        "ratings": 4,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "south"
+        ],
+        "eta": "22 min"
+    },
+    {
+        "name": "Galouti kebab",
+        "ratings": 5,
+        "imageUrl": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "75 min"
+    },
+    {
+        "name": "Pasanda",
+        "ratings": 2,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "9 min"
+    },
+    {
+        "name": "Chikki",
+        "ratings": 5,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "north"
+        ],
+        "eta": "58 min"
+    },
+    {
+        "name": "Aloo tikki",
+        "ratings": 3,
+        "imageUrl": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "23 min"
+    },
+    {
+        "name": "Avial",
+        "ratings": 3,
+        "imageUrl": "https://cdn.tasteatlas.com//Images/Dishes/88bc784f4cf84d9b94c7e49c86acae84.jpg?w=905&h=510",
+        "tags": [
+            "chill"
+        ],
+        "eta": "17 min"
+    },
+    {
+        "name": "Pitha",
+        "ratings": 5,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "north"
+        ],
+        "eta": "70 min"
+    },
+    {
+        "name": "Baati",
+        "ratings": 5,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "4 min"
+    },
+    {
+        "name": "Panjiri",
+        "ratings": 1,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "56 min"
+    },
+    {
+        "name": "Medu vada",
+        "ratings": 1,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "tags": [
+            "north"
+        ],
+        "eta": "3 min"
+    },
+    {
+        "name": "Curd Rice",
+        "ratings": 3,
+        "imageUrl": "https://cdn.tasteatlas.com//images/dishes/bfa5558ba02f4ff490bb73d2e7a45932.jpg?w=905&h=510",
+        "tags": [
+            "chill"
+        ],
+        "eta": "66 min"
+    },
+    {
+        "name": "Shrikhand",
+        "ratings": 3,
+        "imageUrl": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "tags": [
+            "north"
+        ],
+        "eta": "47 min"
+    },
+    {
+        "name": "Punjabi kadhi",
+        "ratings": 1,
+        "imageUrl": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "tags": [
+            "north"
+        ],
+        "eta": "18 min"
+    },
+    {
+        "name": "Coconut Chutney",
+        "ratings": 5,
+        "imageUrl": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
+        "tags": [
+            "chill"
+        ],
+        "eta": "96 min"
+    },
+    {
+        "name": "Aloo gobi",
+        "ratings": 1,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "2 min"
+    },
+    {
+        "name": "Paneer tikka",
+        "ratings": 5,
+        "imageUrl": "https://cdn.tasteatlas.com//Images/Dishes/88bc784f4cf84d9b94c7e49c86acae84.jpg?w=905&h=510",
+        "tags": [
+            "thali"
+        ],
+        "eta": "69 min"
+    },
+    {
+        "name": "Madras Curry",
+        "ratings": 1,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "tags": [
+            "south",
+            "north"
+        ],
+        "eta": "73 min"
+    },
+    {
+        "name": "Dhokla",
+        "ratings": 3,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "77 min"
+    },
+    {
+        "name": "Kadai paneer",
+        "ratings": 2,
+        "imageUrl": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "tags": [
+            "south"
+        ],
+        "eta": "61 min"
+    },
+    {
+        "name": "Bhakri",
+        "ratings": 4,
+        "imageUrl": "https://cdn.tasteatlas.com//Images/Dishes/88bc784f4cf84d9b94c7e49c86acae84.jpg?w=905&h=510",
+        "tags": [
+            "thali"
+        ],
+        "eta": "67 min"
+    },
+    {
+        "name": "Muthia",
+        "ratings": 5,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "72 min"
+    },
+    {
+        "name": "Mattar paneer",
+        "ratings": 1,
+        "imageUrl": "https://cdn.tasteatlas.com//Images/Dishes/88bc784f4cf84d9b94c7e49c86acae84.jpg?w=905&h=510",
+        "tags": [
+            "south"
+        ],
+        "eta": "10 min"
+    },
+    {
+        "name": "Phirni",
+        "ratings": 3,
+        "imageUrl": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "tags": [
+            "chill"
+        ],
+        "eta": "27 min"
+    },
+    {
+        "name": "Aluchya Wadya",
+        "ratings": 1,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "north"
+        ],
+        "eta": "68 min"
+    },
+    {
+        "name": "Aloo paratha",
+        "ratings": 1,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "61 min"
+    },
+    {
+        "name": "Kaju katli",
+        "ratings": 1,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "38 min"
+    },
+    {
+        "name": "Jeera Rice",
+        "ratings": 2,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "tags": [
+            "south"
+        ],
+        "eta": "7 min"
+    },
+    {
+        "name": "Kulcha",
+        "ratings": 5,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "south"
+        ],
+        "eta": "25 min"
+    },
+    {
+        "name": "Kachori",
+        "ratings": 5,
+        "imageUrl": "https://cdn.tasteatlas.com//images/dishes/bfa5558ba02f4ff490bb73d2e7a45932.jpg?w=905&h=510",
+        "tags": [
+            "thali"
+        ],
+        "eta": "44 min"
+    },
+    {
+        "name": "Bonda",
+        "ratings": 1,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "38 min"
+    },
+    {
+        "name": "Jalebi",
+        "ratings": 1,
+        "imageUrl": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+        "tags": [
+            "thali"
+        ],
+        "eta": "81 min"
+    },
+    {
+        "name": "Laal maas",
+        "ratings": 2,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "tags": [
+            "south",
+            "north"
+        ],
+        "eta": "8 min"
+    },
+    {
+        "name": "Dal tadka",
+        "ratings": 2,
+        "imageUrl": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "65 min"
+    },
+    {
+        "name": "Putu mayam",
+        "ratings": 5,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "tags": [
+            "south"
+        ],
+        "eta": "72 min"
+    },
+    {
+        "name": "Falooda",
+        "ratings": 5,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "thali"
+        ],
+        "eta": "0 min"
+    },
+    {
+        "name": "Chole bhature",
+        "ratings": 4,
+        "imageUrl": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "38 min"
+    },
+    {
+        "name": "Mysore pak",
+        "ratings": 2,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "tags": [
+            "chill"
+        ],
+        "eta": "45 min"
+    },
+    {
+        "name": "Misal pav",
+        "ratings": 4,
+        "imageUrl": "https://cdn.tasteatlas.com//images/dishes/bfa5558ba02f4ff490bb73d2e7a45932.jpg?w=905&h=510",
+        "tags": [
+            "south",
+            "north"
+        ],
+        "eta": "29 min"
+    },
+    {
+        "name": "Gajar ka halwa",
+        "ratings": 5,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "83 min"
+    },
+    {
+        "name": "Malai kofta",
+        "ratings": 5,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "thali"
+        ],
+        "eta": "0 min"
+    },
+    {
+        "name": "Bhelpuri",
+        "ratings": 3,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+        "tags": [
+            "chill"
+        ],
+        "eta": "29 min"
+    },
+    {
+        "name": "Modak",
+        "ratings": 2,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "tags": [
+            "south"
+        ],
+        "eta": "43 min"
+    },
+    {
+        "name": "Saag paneer",
+        "ratings": 1,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "chill"
+        ],
+        "eta": "1 min"
+    },
+    {
+        "name": "Raita",
+        "ratings": 1,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "chill"
+        ],
+        "eta": "77 min"
+    },
+    {
+        "name": "Jalfrezi",
+        "ratings": 5,
+        "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "68 min"
+    },
+    {
+        "name": "Shahi paneer",
+        "ratings": 2,
+        "imageUrl": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "tags": [
+            "meals",
+            "nagarjuna"
+        ],
+        "eta": "30 min"
+    },
+    {
+        "name": "Pongal",
+        "ratings": 5,
+        "imageUrl": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+        "tags": [
+            "south",
+            "spicy"
+        ],
+        "eta": "56 min"
+    },
+    {
+        "name": "View more",
+        "ratings": 1,
+        "imageUrl": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "tags": [
+            "south",
+            "north"
+        ],
+        "eta": "47 min"
+    }
+]
